@@ -56,4 +56,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
