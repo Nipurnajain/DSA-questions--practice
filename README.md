@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,8 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
