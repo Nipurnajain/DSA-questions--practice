@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1903-largest-odd-number-in-string) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
