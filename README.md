@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 ## Hash Table
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
