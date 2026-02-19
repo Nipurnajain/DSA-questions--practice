@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
