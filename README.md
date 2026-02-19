@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -94,4 +97,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
