@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
