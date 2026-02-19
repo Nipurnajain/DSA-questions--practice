@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
