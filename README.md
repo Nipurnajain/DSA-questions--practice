@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/1903-largest-odd-number-in-string) |
