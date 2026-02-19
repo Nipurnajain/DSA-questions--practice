@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nipurnajain/DSA-questions--practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
